@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...java , pyhton , Data science
 - 🌱 I’m currently working in  ... Tata Consultancy Services
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...vivekmolleti99@gmail.com
+- 📫 How to reach me ...vivekmolleti11@gmail.com
 
 <!---
 vivekmolleti/vivekmolleti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
